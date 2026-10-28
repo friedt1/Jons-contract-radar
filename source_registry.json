@@ -1,0 +1,450 @@
+[
+  {
+    "source": "SAM.gov",
+    "category": "Government procurement",
+    "research_url": "https://sam.gov/opportunities",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "NYS Contract Reporter",
+    "category": "Government procurement",
+    "research_url": "https://www.nyscr.ny.gov/home/contracts",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "PA eMarketplace",
+    "category": "Government procurement",
+    "research_url": "https://www.emarketplace.state.pa.us/",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "PennDOT ECMS",
+    "category": "Government procurement",
+    "research_url": "https://www.google.com/search?q=PennDOT%20ECMS%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "NYSDOT procurement",
+    "category": "Government procurement",
+    "research_url": "https://www.google.com/search?q=NYSDOT%20procurement%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "NY OGS",
+    "category": "Government procurement",
+    "research_url": "https://www.google.com/search?q=NY%20OGS%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "BidNet Direct Empire State",
+    "category": "Government procurement",
+    "research_url": "https://www.google.com/search?q=BidNet%20Direct%20Empire%20State%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "US Forest Service",
+    "category": "Government procurement",
+    "research_url": "https://www.google.com/search?q=US%20Forest%20Service%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Chemung County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://chemungcountyny.gov/Bids.aspx",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Steuben County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Steuben%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Schuyler County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Schuyler%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Tioga County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Tioga%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Tompkins County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Tompkins%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Broome County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Broome%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Cortland County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Cortland%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Seneca County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Seneca%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Yates County NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Yates%20County%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Bradford County PA",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Bradford%20County%20PA%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Tioga County PA",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Tioga%20County%20PA%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Susquehanna County PA",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Susquehanna%20County%20PA%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Lycoming County PA",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Lycoming%20County%20PA%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Elmira NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=City%20of%20Elmira%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Corning NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=City%20of%20Corning%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Ithaca NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=City%20of%20Ithaca%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Town of Horseheads NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Town%20of%20Horseheads%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Town of Big Flats NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Town%20of%20Big%20Flats%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Town of Southport NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=Town%20of%20Southport%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Binghamton NY",
+    "category": "County and municipal bids",
+    "research_url": "https://www.google.com/search?q=City%20of%20Binghamton%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Chemung County Planning Board",
+    "category": "Planning and development",
+    "research_url": "https://www.chemungcountyny.gov/506/Chemung-County-Planning-Board",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Steuben County Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Steuben%20County%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Schuyler County Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Schuyler%20County%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Tioga County NY Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Tioga%20County%20NY%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Tompkins County Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Tompkins%20County%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Broome County Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Broome%20County%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Bradford County PA Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Bradford%20County%20PA%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Tioga County PA Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Tioga%20County%20PA%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Elmira Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=City%20of%20Elmira%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Corning Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=City%20of%20Corning%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "City of Ithaca Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=City%20of%20Ithaca%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Town of Horseheads Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Town%20of%20Horseheads%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Town of Big Flats Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Town%20of%20Big%20Flats%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Town of Southport Planning",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=Town%20of%20Southport%20Planning%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "NY DEC Environmental Notice Bulletin",
+    "category": "Planning and development",
+    "research_url": "https://dec.ny.gov/news/environmental-notice-bulletin",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "PA DEP public notices",
+    "category": "Planning and development",
+    "research_url": "https://www.google.com/search?q=PA%20DEP%20public%20notices%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "NYSEG",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=NYSEG%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "RG&E",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=RG%26E%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "National Grid NY",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=National%20Grid%20NY%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "FirstEnergy Penelec",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=FirstEnergy%20Penelec%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Cornell University procurement",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=Cornell%20University%20procurement%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Binghamton University procurement",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=Binghamton%20University%20procurement%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Elmira City School District",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=Elmira%20City%20School%20District%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Corning-Painted Post School District",
+    "category": "Utilities and institutions",
+    "research_url": "https://www.google.com/search?q=Corning-Painted%20Post%20School%20District%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Dodge Construction Network",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=Dodge%20Construction%20Network%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "ConstructConnect",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=ConstructConnect%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "BuildingConnected",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=BuildingConnected%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "PlanHub",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=PlanHub%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "The Blue Book",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=The%20Blue%20Book%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "iSqFt",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=iSqFt%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "LoopNet commercial development",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=LoopNet%20commercial%20development%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "NY SEQRA environmental review",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=NY%20SEQRA%20environmental%20review%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "PA DEP eFACTS",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=PA%20DEP%20eFACTS%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Chemung County Industrial Development Agency",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=Chemung%20County%20Industrial%20Development%20Agency%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Steuben County IDA",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=Steuben%20County%20IDA%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  },
+  {
+    "source": "Southern Tier 8 Regional Board",
+    "category": "Construction and private leads",
+    "research_url": "https://www.google.com/search?q=Southern%20Tier%208%20Regional%20Board%20tree%20removal%20land%20clearing%20site%20development%20bids%20planning%20projects",
+    "integration_status": "Not connected \u2014 research target",
+    "access_note": "Search link only; confirm official portal, permissions and machine-readable feed"
+  }
+]
