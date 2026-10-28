@@ -1,1 +1,8 @@
-{"updated":null,"opportunities":[],"source_status":{"SAM.gov":"Not connected — API key required"},"coverage_note":"No live sources verified yet. Automatic collection not activated."}
+{
+  "updated": "2026-10-28T12:33:19.027523+00:00",
+  "opportunities": [],
+  "source_status": {
+    "SAM.gov": "Not connected — SAM_API_KEY secret missing"
+  },
+  "coverage_note": "Federal opportunities only; 2-hour driving times not verified. Other sources not connected."
+}
